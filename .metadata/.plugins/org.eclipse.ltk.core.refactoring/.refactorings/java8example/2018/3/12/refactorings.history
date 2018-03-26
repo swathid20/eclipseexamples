@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.cts&apos; to &apos;java8/src&apos;&#x0D;&#x0A;- Original project: &apos;java8example&apos;&#x0D;&#x0A;- Destination element: &apos;java8/src&apos;&#x0D;&#x0A;- Original element: &apos;java8example/src/com.cts&apos;" description="Copy package" destination="=java8/src" element1="/src&lt;com.cts" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1521443755338" version="1.0"/>
+</session>

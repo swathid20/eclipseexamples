@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Mar/2018:08:55:00 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:08:55:01 +0530] "GET /restfuldemo/ HTTP/1.1" 404 975
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:08:56:23 +0530] "GET /restfuldemo/rest/demo/simple HTTP/1.1" 200 36
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:08:57:27 +0530] "POST /restfuldemo/rest/demo/getCustomer HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:08:58:53 +0530] "POST /restfuldemo/rest/demo/getCustomer HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:08:59:16 +0530] "POST /restfuldemo/rest/demo/getCustomer HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:01:39 +0530] "POST /restfuldemo/rest/demo/getCustomer HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:20:13 +0530] "GET /restfuldemo/rest/demo/getCustomer HTTP/1.1" 200 151
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:36:56 +0530] "POST /restfuldemo/rest/demo/storeEmp HTTP/1.1" 406 1095
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:37:47 +0530] "POST /restfuldemo/rest/demo/storeEmp HTTP/1.1" 406 1095
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:38:14 +0530] "POST /restfuldemo/rest/demo/storeEmp HTTP/1.1" 406 1095
+0:0:0:0:0:0:0:1 - - [09/Mar/2018:09:38:39 +0530] "POST /restfuldemo/rest/demo/storeCustomer HTTP/1.1" 200 19
